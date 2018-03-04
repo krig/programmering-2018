@@ -6,7 +6,7 @@
 
 ---
 
-<img src="img/utveckling1.png" class="plain">
+<img src="img/utveckling.png" class="plain">
 
 --
 
